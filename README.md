@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lohyd9
 - 👀 I’m interested in making awesome games.
 - 🌱 I’m learning how to use github
-
+-  I am owner of oragization 'the github creators'
 
 
 <!---
